@@ -2,9 +2,39 @@
 
 ![](https://www.amrita.edu/sites/default/files/tifac-core-cyber-security-1.jpg)
 
+The center for Cyber Security was identified by TIFAC (Department of Science & Technology, Govt. of India) as a CORE in Cyber Security in September 2005. The **TIFAC-CORE in Cyber Security** gives significant thrust to the frontier areas of Cyber Security, including technology, practice, management, and policy issues. This TIFAC-CORE in Cyber Security at Amrita is a collaborative alliance of academic and industrial partners. [Read More](https://www.amrita.edu/center/tifac-core-cyber-security/about)
+
+## Blockchain Technology
+
+Blockchain Technology, which is seen as a disruptive Technology of the last decade, has impacted all majors domains including Cyber Security. Amrita TIFAC-CORE in Cyber Security has been one of the institions in India in leading **Blockchain Technology - R&D** activities from the year 2017. TIFAC-CORE in Cyber Security Organised a **National Level 3-day Workshop on Blockchain Technology** in 2018. 
+
+![](https://www.amrita.edu/sites/default/files/workshop-blockchain-technologies-2018-cyber-1170.png)
+
 ## Blockchain Course - 18CY712 - Blockchain Technology
 
+Blockchain Technology Course (18CY712) is being offered to our M.Tech Cyber Security students as an Elective during their 3rd Semester from the year 2018. Totaly 12 students have opted for the subject as their elective. The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges faced. 
+
+The Syllabus Covers
+  - Basics of Distributed Network
+  - Basics of Cyber Security & Cryptography
+  - What is Blockchain Technology & DLT?
+  - Evolution of the Technology
+  - Generations and Types of Blockchain Technology
+  - Bitcoin Blockchain (with Hands-On using Bitcoin Testnet)
+  - Ethereum Blockchain
+  - Smart Contracts
+  - Solidity Programming
+  - Web3.js
+  - DApps (Integration of Solidity Code + Web3.js)
+  - Hyperledger Projects 
+  - Other Distributed Systems - Interplanetary File System (IPFS)
+  - Standards in Blockchain (BIP, EIP, ERC, ISO)
+  - Oracles 
+  - **Capstone Project**
+
 ## Blockchain Projects
+  - [**Adayalam** ](https://amrita-tifac-cyber-blockchain.github.io/Adayalam/)
+  - [**ArogyaChain**](https://amrita-tifac-cyber-blockchain.github.io/ArogyaChain/)
 
 ## List of Publications
   - **2017**
