@@ -12,7 +12,7 @@ Blockchain Technology, which is seen as a disruptive Technology of the last deca
 
 ## Blockchain Course - 18CY712 - Blockchain Technology
 
-Blockchain Technology Course (18CY712) is being offered to our M.Tech Cyber Security students as an Elective during their 3rd Semester from the year 2018. Totaly 12 students have opted for the subject as their elective. The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges faced. 
+Blockchain Technology Course (18CY712) is being offered to M.Tech Cyber Security students as an Elective during 2nd Year of the Program (3rd Semester) from 2018-19 Academic year. Around 9 students (2019) and 3 students (2020) have opted for this subject as their elective. The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges. 
 
 The Syllabus Covers
   - Basics of Distributed Network
@@ -21,16 +21,22 @@ The Syllabus Covers
   - Evolution of the Technology
   - Generations and Types of Blockchain Technology
   - Bitcoin Blockchain (with Hands-On using Bitcoin Testnet)
+  - CryptoWallets (Hands-On with Multiple Wallets)
   - Ethereum Blockchain
   - Smart Contracts
-  - Solidity Programming
-  - Web3.js
-  - DApps (Integration of Solidity Code + Web3.js)
-  - Hyperledger Projects 
-  - Other Distributed Systems - Interplanetary File System (IPFS)
+  - Solidity Programming (with Hands-On using Remix-IDE)
+  - Web3.js 
   - Standards in Blockchain (BIP, EIP, ERC, ISO)
-  - Oracles 
+  - Oracles (Hands-On using Provable)
+  - Tokenization (ERC-721)
+  - DApps (Hands-On by Integrating of Solidity Code + Web3.js)
+  - Introduction Hyperledger Projects 
+  - Other Distributed Systems - Interplanetary File System (IPFS) (Hands-On)
   - **Capstone Project**
+  
+## Amrita Blockchain Certification 
+   
+   To be Updated
 
 ## Blockchain Projects
   - [**Adayalam** ](https://amrita-tifac-cyber-blockchain.github.io/Adayalam/)
@@ -52,5 +58,7 @@ The Syllabus Covers
     - **A. Pillai, M. Sindhu and K. V. Lakshmy**, **"Securing Firmware in Internet of Things using Blockchain,"** 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS), Coimbatore, India, 2019, pp. 329-334, doi: 10.1109/ICACCS.2019.8728389.
     - **M. Harikrishnan and K. V. Lakshmy**, **"Secure Digital Service Payments using Zero Knowledge Proof in Distributed Network,"** 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS), Coimbatore, India, 2019, pp. 307-312, doi: 10.1109/ICACCS.2019.8728462.
     - Preethi Gopalakrishnan, **Ramaguru R.**, (2019) **Blockchain based Waste Management**. International Journal of Engineering and Advanced Technology 8 (5), 2632-2635.
+    - **Mohan T., Praveen K.** (2019) **Fraud Detection in Medical Insurance Claim with Privacy Preserving Data Publishing in TLS-N Using Blockchain.** In: Singh M., Gupta P., Tyagi V., Flusser J., Ören T., Kashyap R. (eds) Advances in Computing and Data Sciences. ICACDS 2019. Communications in Computer and Information Science, vol 1045. Springer, Singapore. https://doi.org/10.1007/978-981-13-9939-8_19
   - **2020**
     - **Bansal M.K., Sethumadhavan M.** (2020) **Survey on Domain Name System Security Problems - DNS and Blockchain Solutions.** In: Singh P., Sood S., Kumar Y., Paprzycki M., Pljonkin A., Hong WC. (eds) Futuristic Trends in Networks and Computing Technologies. FTNCT 2019. Communications in Computer and Information Science, vol 1206. Springer, Singapore. https://doi.org/10.1007/978-981-15-4451-4_50
+    - **Kripa M., Nidhin Mahesh A., Ramaguru R., Amritha P.P.** (2021) **Blockchain Framework for Social Media DRM Based on Secret Sharing.** In: Senjyu T., Mahalle P.N., Perumal T., Joshi A. (eds) Information and Communication Technology for Intelligent Systems. ICTIS 2020. Smart Innovation, Systems and Technologies, vol 195. Springer, Singapore. https://doi.org/10.1007/978-981-15-7078-0_43
