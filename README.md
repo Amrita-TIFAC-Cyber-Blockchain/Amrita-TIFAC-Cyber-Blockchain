@@ -127,8 +127,7 @@ The Syllabus Covers
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Anjum S., Ramaguru R., Sethumadhavan M.]() (2021) **Medical Records Management Using Distributed Ledger and Storage.** In: Singh M., Tyagi V., Gupta P.K., Flusser J., Ören T., Sonawane V.R. (eds) _Advances in Computing and Data Sciences. ICACDS 2021._ Communications in Computer and Information Science, vol 1441. pp 52-62. Springer, Cham.
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [S. P S and L. K V](), **"Blockchain based Smart Contracts in Automation of Shipping Ports**," 2021 _6th International Conference on Inventive Computation Technologies (ICICT)_, Coimbatore, India, 2021, pp. 1248-1253, doi: 10.1109/ICICT50816.2021.9358634.
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Kripa M., Nidhin Mahesh A., Ramaguru R., Amritha P.P.]() (2021) **Blockchain Framework for Social Media DRM Based on Secret Sharing.** In: Senjyu T., Mahalle P.N., Perumal T., Joshi A. (eds) _Information and Communication Technology for Intelligent Systems. ICTIS 2020._ Smart Innovation, Systems and Technologies, Vol. 195. pp 451-458. Springer, Singapore.
-    
-   
+       
 - **2020**
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-PhD-blue) [Bansal M.K., Sethumadhavan M.]() (2020) **Survey on Domain Name System Security Problems - DNS and Blockchain Solutions.** In: Singh P., Sood S., Kumar Y., Paprzycki M., Pljonkin A., Hong WC. (eds) _Futuristic Trends in Networks and Computing Technologies. FTNCT 2019._ Communications in Computer and Information Science, vol 1206. Springer, Singapore. https://doi.org/10.1007/978-981-15-4451-4_50
   
@@ -144,18 +143,18 @@ The Syllabus Covers
     - ![](https://img.shields.io/badge/-Journal-orange) ![](https://img.shields.io/badge/-MTech-blue) Gopalakrishnan, P., [Radhakrishnan, R.]() (2019). **Blockchain based waste management.** _International Journal of Engineering and Advanced Technology (IJEAT)_, Vol. 8 Issue 5. pp. 2632-2635
     - ![](https://img.shields.io/badge/-Journal-orange) ![](https://img.shields.io/badge/-MTech-blue) [Misha Abraham,]() A.M. Hima Vyshnavi, [Chungath Srinivasan]() and Dr.P.K. Krishnan Namboori (2019) **Healthcare security using blockchain for pharmacogenomics**, _Journal of International Pharmaceutical Research_ 46(1): 529-533
     
-
   - **2018**
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Kumar, M., Sindhu M, Sethumadhavan M, & Lakshmy K V.]() (2018). **Distributed Human Interaction Proof for Public Blockchain Platform.** _International Journal of Engineering & Technology_, Vol. 7, No. 3.34, pp. 885-889.
     - ![](https://img.shields.io/badge/-Journal-orange) ![](https://img.shields.io/badge/-MTech-blue) [Sajana, P., Sindhu, M., & Sethumadhavan, M.]() (2018). **On blockchain applications: Hyperledger fabric and ethereum**. _International Journal of Pure and Applied Mathematics_, 118(18), 2965-2970.
     - ![](https://img.shields.io/badge/-Journal-orange) ![](https://img.shields.io/badge/-MTech-blue) [Rajalakshmi A, Lakshmy K V, Sindhu M , & Amritha P P]() (2018). **A Blockchain and IPFS based Framework for secure Research Record Keeping.** _International Journal of Pure and Applied Mathematics._ Vol. 119, No. 15, pp. 1437-1442.
 
-
   - **2017**
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Ambili, K. N., Sindhu, M., & Sethumadhavan, M.]()    (2017, August). **On federated and proof of validation based consensus algorithms in blockchain**. In _IOP Conference Series: Materials Science and            Engineering_ (Vol. 225, No. 1, p. 012198). IOP Publishing.
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [L. S. Sankar, M. Sindhu and M. Sethumadhavan](), **"Survey of consensus protocols on blockchain applications,"** 2017 4th _International Conference on Advanced Computing and Communication Systems (ICACCS)_, Coimbatore, 2017, pp. 1-5, doi: 10.1109/ICACCS.2017.8014672.
     
- ## Webinar / Workshop / Faculty Development Program
+    
+## Webinar / Workshop / Faculty Development Program
+
   
 | Date | Topic | Institution | Resource Person |
 |:----:|-------|-------------|-----------------|
