@@ -112,8 +112,9 @@ The Syllabus Covers
   - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Blockchain for the Internet of Vehicles]()
 
 #### On-Going
-- ![](https://img.shields.io/badge/MTech_Dissertation-21CYS-blue) [DAuth-Distributed-OAuth-using-Decentralized-Identifiers-with-Secret-Sharing]()
+- ![](https://img.shields.io/badge/MTech_Dissertation-21CYS-blue) [DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing]()
 - ![](https://img.shields.io/badge/Blockchain_Course-21CYS-purple) [Security Analysis of Decentralized Exchanges]()
+- [Robust Distributed AI Model for Patient Health Records]()
 
 ## List of Publications
 
@@ -154,4 +155,14 @@ The Syllabus Covers
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Ambili, K. N., Sindhu, M., & Sethumadhavan, M.]()    (2017, August). **On federated and proof of validation based consensus algorithms in blockchain**. In _IOP Conference Series: Materials Science and            Engineering_ (Vol. 225, No. 1, p. 012198). IOP Publishing.
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [L. S. Sankar, M. Sindhu and M. Sethumadhavan](), **"Survey of consensus protocols on blockchain applications,"** 2017 4th _International Conference on Advanced Computing and Communication Systems (ICACCS)_, Coimbatore, 2017, pp. 1-5, doi: 10.1109/ICACCS.2017.8014672.
     
-    
+ ## Webinar / Workshop / Faculty Development Program
+  
+| Date | Topic | Institution | Resource Person |
+|:----:|-------|-------------|-----------------|
+| 26-Feb-2022 | Webinar on Blockchain Applications for Common Man | Directorate Of Admissions and Academic Outreach, <br/> Amrita Vishwa Vidyapeetham, Coimbatore | Mr. Ramaguru Radhakrishnan |
+| 23-Feb-2022 | Research Challenges in Blockchain Technology | National Power Institute, Bengaluru | Mr. Ramaguru Radhakrishnan |
+| 18-Feb-2022 | Research Challenges in Blockchain Technology | Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai | Mr. Ramaguru Radhakrishnan |
+| 17-Feb-2022 | Blockchain Platforms | Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai | Mr. Ramaguru Radhakrishnan |
+| 29-Aug-2020 | Blockchain Technology and Supply Chain Management | Tamil Nadu Agriculture University, Kilikulam | Prof. M. Sethumadhavan <br/> Mr. Ramaguru Radhakrishnan |
+| 26-Aug-2020 | Developing Interdisciplinary Applications Towards Blockchain | Saintgits College of Engineering, Kottayam | Mr. Ramaguru Radhakrishnan |
+| 17-Mar-2018 | Two Day Workshop on Blockchain Technology | NSS College of Engineering, Palakkad | Mr. Ramaguru Radhakrishnan |
