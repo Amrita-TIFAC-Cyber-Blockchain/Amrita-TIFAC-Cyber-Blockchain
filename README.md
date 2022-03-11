@@ -15,28 +15,28 @@ Blockchain Technology, which is seen as a disruptive Technology of the last deca
 
 ## Blockchain Course 
 
-Blockchain Technology Course is being offered to M.Tech Cyber Security students as an Elective during 2nd Year of the Program (3rd Semester) from 2018-19 Academic year. 
+Blockchain Technology Course is being offered to **M.Tech Cyber Security students** as an **Elective during 2nd Year** of the Program (3rd Semester) from 2018-19 Academic year. 
 
 ### 18CY712 - Blockchain Technology 
 
 | Batch | 2019 | 2020 | 
 |------------|------------------------|--------------------|
-| Instructor(s) | Prof. M. Sethumadhavan | Dr. Lakshmy K.V, <br/> Asst. Professor |
-| Teaching Assistant | -  | Mr. Ramaguru Radhakrishnan, <br/> Research Associate |
-| Duration | 2019 | July 2020 - Dec 2020
-| No. of Students | 9 | 3 |
-| No. of Publications | NA | 3 |
+| **Instructor(s)** | Prof. M. Sethumadhavan | Dr. Lakshmy K.V, <br/> Asst. Professor |
+| **Teaching Assistant** | -  | Mr. Ramaguru Radhakrishnan, <br/> Research Associate |
+| **Duration** | 2019 | July 2020 - Dec 2020
+| **No. of Students** | 9 | 3 |
+| **No. of Publications** | NA | 3 |
 
 
 ### 20CY712 - Blockchain Technology 
 
 | Batch | 2021 |
 |------------|------------------------|
-| Instructor | Dr. Lakshmy K.V, <br/> Asst. Professor |
-| Teaching Assistant | Mr. Ramaguru Radhakrishnan, <br/> Research Associate/Asst. Professor |
-| Duration | Aug 2021 - Dec 2021 |
-| No. of Students | 7 | 
-| No. of Publications | 1 | 
+| **Instructor** | Dr. Lakshmy K.V, <br/> Asst. Professor |
+| **Teaching Assistant** | Mr. Ramaguru Radhakrishnan, <br/> Research Associate/Asst. Professor |
+| **Duration** | Aug 2021 - Dec 2021 |
+|** No. of Students** | 7 | 
+| **No. of Publications** | 1 | 
 
 The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges.
 
@@ -63,44 +63,57 @@ The Syllabus Covers
 ## Blockchain Certifications
 
  - **NPTEL - Blockchain Architecture, Design and use cases**
-    - [Ramaguru Radhakrishnan]()
-    - [Maria Benji]() 
+    - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Ramaguru Radhakrishnan]()
+    - ![](https://img.shields.io/badge/MTech_Dissertation-16CYS-blue) [Maria Benji]() 
 
  - **Coursera - Blockchain Specialization by University at Buffalo & The State University of New York**
-    - [Ramaguru Radhakrishnan](https://www.coursera.org/account/accomplishments/specialization/certificate/YBS92L32F84U)
-    - [Aju Mathew Thomas]()
-    - [Samia Anjum]()
-    - [Sivadanam Yaswanth Lingam]()
+    - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Ramaguru Radhakrishnan](https://www.coursera.org/account/accomplishments/specialization/certificate/YBS92L32F84U)
+    - ![](https://img.shields.io/badge/Blockchain_Course-19CYS-purple) [Aju Mathew Thomas]()
+    - ![](https://img.shields.io/badge/Blockchain_Course-19CYS-purple) [Samia Anjum]()
+    - ![](https://img.shields.io/badge/Blockchain_Course-19CYS-purple) [Sivadanam Yaswanth Lingam]()
 
  - **Blockchain Council - Certified Corda Expert**
-    - [Ramaguru Radhakrishnan](https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c)
+    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c)
     
  - **Kerala Blockchain Academy - Certified Blockchain Associate**
-    - [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21)
+    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21)
      
  - **Kerala Blockchain Academy - Blockchain Foundation Program**
-    - [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09078)
-    - [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09081)
-    - [Gokul G](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183)
-    - [Sreelakshmi Girisan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184)
-    - [Penumallu Abhiram Reddy](https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039)
-    - [P. Gnanendra Prasad](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007)
-    - [Thummala Tejasree](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150) 
-    - [Sreelakshmi Tv](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09078)
+    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09081)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gokul G](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Sreelakshmi Girisan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Penumallu Abhiram Reddy](https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [P. Gnanendra Prasad](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Thummala Tejasree](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150) 
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Sreelakshmi Tv](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237)
+    - ![](https://img.shields.io/badge/MTech-Dissertation-blue) [Danda Prudhvi Krishna](https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112)
 
 - **Kerala Blockchain Academy - Ethereum Fundamentals Program**
-    - [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004)
-    - [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004) 
+    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004) 
 
 - **Kerala Blockchain Academy - Hyperledger Fabric Fundamentals Program**
-    - [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045)
-    - [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064) 
+    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045)
+    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064) 
     
 ## Blockchain Projects
-  - [GEIN: Distributed Geographical Indication Registry](https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/)
-  - [Distributed Ledger Framework for an Adaptive University Management System](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/)
-  - [Distributed Identity and Verifiable Claims Using Ethereum Standards](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/)
-  - [Medical Record Management based on Distributed Ledger and Storage](https://amrita-tifac-cyber-blockchain.github.io/Medical-Record-Management-based-on-Distributed-Ledger-and-Storage/)
+
+### Long-term Project
+ - [Blockchain and Cryptocurrency Forensics](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/)
+ - [Smart Contracts Security Analysis]()
+ - [Formal Methods and Verification]()
+
+#### Completed
+  - ![](https://img.shields.io/badge/Blockchain_Course-21CYS-purple) [GEIN: Distributed Geographical Indication Registry](https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/)
+  - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Distributed Ledger Framework for an Adaptive University Management System](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/)
+  - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Distributed Identity and Verifiable Claims Using Ethereum Standards](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/)
+  - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Medical Record Management based on Distributed Ledger and Storage](https://amrita-tifac-cyber-blockchain.github.io/Medical-Record-Management-based-on-Distributed-Ledger-and-Storage/)
+  - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Blockchain for the Internet of Vehicles]()
+
+#### On-Going
+- ![](https://img.shields.io/badge/MTech_Dissertation-21CYS-blue) [DAuth-Distributed-OAuth-using-Decentralized-Identifiers-with-Secret-Sharing]()
+- ![](https://img.shields.io/badge/Blockchain_Course-21CYS-purple) [Security Analysis of Decentralized Exchanges]()
 
 ## List of Publications
 
@@ -123,7 +136,7 @@ The Syllabus Covers
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Aswathy S.V., Lakshmy K.V.]() (2019) **BVD - A Blockchain Based Vehicle Database System.** In: Thampi S., Madria S., Wang G., Rawat D., Alcaraz Calero J. (eds) _Security in Computing and Communications. SSCC 2018._ Communications in Computer and Information Science, vol 969. Springer, Singapore. https://doi.org/10.1007/978-981-13-5826-5_16
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [M. Harikrishnan and K. V. Lakshmy](), **"Secure Digital Service Payments using Zero Knowledge Proof in Distributed Network,"** 2019 5th _International Conference on Advanced Computing & Communication Systems (ICACCS)_, Coimbatore, India, 2019, pp. 307-312, doi: 10.1109/ICACCS.2019.8728462.
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [K. Ashritha, M. Sindhu and K. V. Lakshmy](), **"Redactable Blockchain using Enhanced Chameleon Hash Function,"** 2019 5th _International Conference on Advanced Computing & Communication Systems (ICACCS)_, Coimbatore, India, 2019, pp. 323-328, doi: 10.1109/ICACCS.2019.8728524.
-    - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [A. Pillai, M. Sindhu and K. V. Lakshmy], **"Securing Firmware in Internet of Things using Blockchain,"** 2019 5th _International Conference on Advanced Computing & Communication Systems (ICACCS)_, Coimbatore, India, 2019, pp. 329-334, doi: 10.1109/ICACCS.2019.8728389.
+    - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [A. Pillai, M. Sindhu and K. V. Lakshmy](), **"Securing Firmware in Internet of Things using Blockchain,"** 2019 5th _International Conference on Advanced Computing & Communication Systems (ICACCS)_, Coimbatore, India, 2019, pp. 329-334, doi: 10.1109/ICACCS.2019.8728389.
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Mohan T., Praveen K.]() (2019) **Fraud Detection in Medical Insurance Claim with Privacy Preserving Data Publishing in TLS-N Using Blockchain.** In: Singh M., Gupta P., Tyagi V., Flusser J., Ören T., Kashyap R. (eds) _Advances in Computing and Data Sciences. ICACDS 2019._ Communications in Computer and Information Science, vol 1045. Springer, Singapore. https://doi.org/10.1007/978-981-13-9939-8_19
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Abraham M., Jevitha K.P.]() (2019) **Runtime Verification and Vulnerability Testing of Smart Contracts.** In: Singh M., Gupta P., Tyagi V., Flusser J., Ören T., Kashyap R. (eds) _Advances in Computing and Data Sciences. ICACDS 2019._ Communications in Computer and Information Science, vol 1046. Springer, Singapore. https://doi.org/10.1007/978-981-13-9942-8_32
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Ramaguru R., Sindhu M., Sethumadhavan M.]() (2019) **Blockchain for the Internet of Vehicles.** In: Singh M., Gupta P., Tyagi V., Flusser J., Ören T., Kashyap R. (eds) _Advances in Computing and Data Sciences. ICACDS 2019._ Communications in Computer and Information Science, vol 1045. Springer, Singapore. https://doi.org/10.1007/978-981-13-9939-8_37
