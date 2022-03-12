@@ -83,14 +83,16 @@ The Syllabus Covers
     - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09081)
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gokul G](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183)
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Sreelakshmi Girisan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184)
+    - ![](https://img.shields.io/badge/Alumni-19CYS-violet) [Aju Mathew Thomas](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09245)
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Penumallu Abhiram Reddy](https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039)
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [P. Gnanendra Prasad](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007)
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Thummala Tejasree](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150) 
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Sreelakshmi Tv](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237)
     - ![](https://img.shields.io/badge/MTech-Dissertation-blue) [Danda Prudhvi Krishna](https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112)
-
+    
 - **Kerala Blockchain Academy - Ethereum Fundamentals Program**
     - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004)
+    - ![](https://img.shields.io/badge/Alumni-19CYS-violet) [Aju Mathew Thomas](https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012)
     - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004) 
 
 - **Kerala Blockchain Academy - Hyperledger Fabric Fundamentals Program**
