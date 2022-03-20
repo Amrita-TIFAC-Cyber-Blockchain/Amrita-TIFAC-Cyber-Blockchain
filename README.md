@@ -35,7 +35,7 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
 | **Instructor** | Dr. Lakshmy K.V, <br/> Asst. Professor |
 | **Teaching Assistant** | Mr. Ramaguru Radhakrishnan, <br/> Research Associate/Asst. Professor |
 | **Duration** | Aug 2021 - Dec 2021 |
-|** No. of Students** | 7 | 
+| **No. of Students** | 7 | 
 | **No. of Publications** | 1 | 
 
 The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges.
@@ -59,6 +59,10 @@ The Syllabus Covers
   - Introduction Hyperledger Projects 
   - Other Distributed Systems - Interplanetary File System (IPFS) (Hands-On)
   - **Capstone Project**
+
+## Blockchain Research Interest Group (RIG)
+
+## Blockchain Research Working Group (RWG)
   
 ## Blockchain Certifications
 
