@@ -1,4 +1,4 @@
-# Amrita - TIFAC-Core in Cyber Security - Blockchain
+# Amrita Cyber Security - Blockchain
 
 <p align="center">
     <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="400" />
