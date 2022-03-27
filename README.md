@@ -62,6 +62,15 @@ The Syllabus Covers
 
 ## Blockchain Research Interest Group (RIG)
 
+An initiative to share and spread awareness about the right understanding of the Blockchain Technology. Research Areas include
+
+  - Distributed Applications
+  - Forensics
+  - Metaverse
+  - Open Source Intelligence
+  - Security
+  - Non-Fungible Tokens
+
 ## Blockchain Research Working Group (RWG)
   
 ## Blockchain Certifications
@@ -164,6 +173,7 @@ The Syllabus Covers
   
 | Date | Topic | Institution | Resource Person |
 |:----:|-------|-------------|-----------------|
+| 25-Mar-2022 | Sathyam: Blockchain for Food Supply Chain Management | Export Conclave by Tamil Nadu Agricultural University, Coimbatore |Prof. M. Sethumadhavan |
 | 26-Feb-2022 | Webinar on Blockchain Applications for Common Man | Directorate Of Admissions and Academic Outreach, <br/> Amrita Vishwa Vidyapeetham, Coimbatore | Mr. Ramaguru Radhakrishnan |
 | 23-Feb-2022 | Research Challenges in Blockchain Technology | National Power Institute, Bengaluru | Mr. Ramaguru Radhakrishnan |
 | 18-Feb-2022 | Research Challenges in Blockchain Technology | Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai | Mr. Ramaguru Radhakrishnan |
