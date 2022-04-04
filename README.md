@@ -17,8 +17,10 @@ Blockchain Technology, which is seen as a disruptive Technology of the last deca
 
 Blockchain Technology Course is being offered to **M.Tech Cyber Security students** as an **Elective during 2nd Year** of the Program (3rd Semester) from 2018-19 Academic year. 
 
-### 18CY712 - Blockchain Technology 
-
+<details close>
+    <summary><b>18CY712 - Blockchain Technology</b></summary>
+<br>
+    
 | Batch | 2019 | 2020 | 
 |------------|------------------------|--------------------|
 | **Instructor(s)** | Prof. M. Sethumadhavan | Dr. Lakshmy K.V, <br/> Asst. Professor |
@@ -26,10 +28,13 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
 | **Duration** | 2019 | July 2020 - Dec 2020
 | **No. of Students** | 9 | 3 |
 | **No. of Publications** | NA | 3 |
+    
+</details>
 
-
-### 20CY712 - Blockchain Technology 
-
+<details close>
+    <summary><b>20CY712 - Blockchain Technology</b></summary>
+<br>
+    
 | Batch | 2021 |
 |------------|------------------------|
 | **Instructor** | Dr. Lakshmy K.V, <br/> Asst. Professor |
@@ -37,28 +42,35 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
 | **Duration** | Aug 2021 - Dec 2021 |
 | **No. of Students** | 7 | 
 | **No. of Publications** | 1 | 
+    
+</details>
 
 The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges.
 
-The Syllabus Covers
-  - Basics of Distributed Network
-  - Basics of Cyber Security & Cryptography
-  - What is Blockchain Technology & DLT?
-  - Evolution of the Technology
-  - Generations and Types of Blockchain Technology
-  - Bitcoin Blockchain (with Hands-On using Bitcoin Testnet)
-  - CryptoWallets (Hands-On with Multiple Wallets)
-  - Ethereum Blockchain
-  - Smart Contracts
-  - Solidity Programming (with Hands-On using Remix-IDE)
-  - Web3.js 
-  - Standards in Blockchain (BIP, EIP, ERC, ISO)
-  - Oracles (Hands-On using Provable)
-  - Tokenization (ERC-721)
-  - DApps (Hands-On by Integrating of Solidity Code + Web3.js)
-  - Introduction Hyperledger Projects 
-  - Other Distributed Systems - Interplanetary File System (IPFS) (Hands-On)
-  - **Capstone Project**
+<details close>
+    <summary><b>Syllabus</b></summary>
+<br>
+    <ul>
+        <li> Basics of Distributed Network </li>
+        <li> Basics of Cyber Security & Cryptography </li>
+        <li> What is Blockchain Technology & DLT? </li>
+        <li> Evolution of the Technology </li>
+        <li> Generations and Types of Blockchain Technology </li>
+        <li> Bitcoin Blockchain (with Hands-On using Bitcoin Testnet) </li>
+        <li> CryptoWallets (Hands-On with Multiple Wallets) </li>
+        <li> Ethereum Blockchain </li>
+        <li> Smart Contracts </li>
+        <li> Solidity Programming (with Hands-On using Remix-IDE) </li>
+        <li> Web3.js </li>
+        <li> Standards in Blockchain (BIP, EIP, ERC, ISO) </li>
+        <li> Oracles (Hands-On using Provable) </li>
+        <li> Tokenization (ERC-721) </li>
+        <li> DApps (Hands-On by Integrating of Solidity Code + Web3.js) </li>
+        <li> Introduction Hyperledger Projects  </li>
+        <li> Other Distributed Systems - Interplanetary File System (IPFS) (Hands-On)  </li>
+        <li> Capstone Project </li>
+    </ul>
+</details>
 
 ## Blockchain Research Interest Group (RIG)
 
@@ -75,61 +87,111 @@ An initiative to share and spread awareness about the right understanding of the
   
 ## Blockchain Certifications
 
- - **NPTEL - Blockchain Architecture, Design and use cases**
-    - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Ramaguru Radhakrishnan]()
-    - ![](https://img.shields.io/badge/MTech_Dissertation-16CYS-blue) [Maria Benji]() 
+<details close>
+    <summary><b>NPTEL - Blockchain Architecture, Design and use cases</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS-blue"/> <a href="">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-16CYS-blue"/> <a href="">Maria Benji</a> </li>
+    </ul>
+</details>
 
- - **Coursera - Blockchain Specialization by University at Buffalo & The State University of New York**
-    - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Ramaguru Radhakrishnan](https://www.coursera.org/account/accomplishments/specialization/certificate/YBS92L32F84U)
-    - ![](https://img.shields.io/badge/Blockchain_Course-19CYS-purple) [Aju Mathew Thomas]()
-    - ![](https://img.shields.io/badge/Blockchain_Course-19CYS-purple) [Samia Anjum]()
-    - ![](https://img.shields.io/badge/Blockchain_Course-19CYS-purple) [Sivadanam Yaswanth Lingam]()
+<details close>
+    <summary><b>Coursera - Blockchain Specialization by University at Buffalo & The State University of New York</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS-blue"/> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YBS92L32F84U">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Aju Mathew Thomas</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Samia Anjum</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Sivadanam Yaswanth Lingam</a> </li>
+    </ul>
+</details>
 
- - **Blockchain Council - Certified Corda Expert**
-    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c)
-    
- - **Kerala Blockchain Academy - Certified Blockchain Associate**
-    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21)
-     
- - **Kerala Blockchain Academy - Blockchain Foundation Program**
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09078)
-    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09081)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gokul G](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Sreelakshmi Girisan](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184)
-    - ![](https://img.shields.io/badge/Alumni-19CYS-violet) [Aju Mathew Thomas](https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09245)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Penumallu Abhiram Reddy](https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [P. Gnanendra Prasad](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Thummala Tejasree](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150) 
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Sreelakshmi Tv](https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237)
-    - ![](https://img.shields.io/badge/MTech-Dissertation-blue) [Danda Prudhvi Krishna](https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112)
-    
-- **Kerala Blockchain Academy - Ethereum Fundamentals Program**
-    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004)
-    - ![](https://img.shields.io/badge/Alumni-19CYS-violet) [Aju Mathew Thomas](https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004) 
+<details close>
+    <summary><b>Blockchain Council - Certified Corda Expert</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c">Ramaguru Radhakrishnan</a> </li>
+    </ul>
+</details>
 
-- **Kerala Blockchain Academy - Hyperledger Fabric Fundamentals Program**
-    - ![](https://img.shields.io/badge/-Faculty-purple) [Ramaguru Radhakrishnan](https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045)
-    - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Gandavaram Anuhya](https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064) 
-    
+<details close>
+    <summary><b>Kerala Blockchain Academy - Certified Blockchain Associate</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21">Ramaguru Radhakrishnan</a> </li>
+    </ul>
+</details>
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Blockchain Foundation Program</b></summary>
+<br>
+    <ul>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09078">Gandavaram Anuhya</a> </li>
+        <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09081">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183">Gokul G</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184">Sreelakshmi Girisan</a> </li>
+        <li> <img src="https://img.shields.io/badge/Alumni-19CYS-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09245">Aju Mathew Thomas</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039">Penumallu Abhiram Reddy</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007">P. Gnanendra Prasad</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150">Thummala Tejasree</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237">Sreelakshmi Tv</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112">Danda Prudhvi Krishna</a> </li>
+    </ul>
+</details>
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Ethereum Fundamentals Program</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/Alumni-19CYS-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012">Aju Mathew Thomas</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004">Gandavaram Anuhya</a> </li>
+    </ul>
+</details>
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Hyperledger Fabric Fundamentals Program</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045">Ramaguru Radhakrishnan</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064">Gandavaram Anuhya</a> </li>
+    </ul>
+</details>
+
 ## Blockchain Projects
 
-### Long-term Project
- - [Blockchain and Cryptocurrency Forensics](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/)
- - [Smart Contracts Security Analysis]()
- - [Formal Methods and Verification]()
+<details close>
+    <summary><b>Long-term Project</b></summary>
+<br>
+    <ul>
+        <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics">Blockchain and Cryptocurrency Forensics</a> </li>
+        <li> <a href="">Smart Contracts Security Analysis</a> </li>
+        <li> <a href="">Formal Methods and Verification</a> </li>
+    </ul>
+</details>
 
-#### Completed
-  - ![](https://img.shields.io/badge/Blockchain_Course-21CYS-purple) [GEIN: Distributed Geographical Indication Registry](https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/)
-  - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Distributed Ledger Framework for an Adaptive University Management System](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/)
-  - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Distributed Identity and Verifiable Claims Using Ethereum Standards](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/)
-  - ![](https://img.shields.io/badge/Blockchain_Course-20CYS-purple) [Medical Record Management based on Distributed Ledger and Storage](https://amrita-tifac-cyber-blockchain.github.io/Medical-Record-Management-based-on-Distributed-Ledger-and-Storage/)
-  - ![](https://img.shields.io/badge/MTech_Dissertation-17CYS-blue) [Blockchain for the Internet of Vehicles]()
+<details close>
+    <summary><b>Completed</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/">GEIN: Distributed Geographical Indication Registry</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/">Distributed Ledger Framework for an Adaptive University Management System</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/">Distributed Identity and Verifiable Claims Using Ethereum Standards</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records">Medical Record Management based on Distributed Ledger and Storage</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS-purple"/> <a href="">Blockchain for the Internet of Vehicles</a> </li>
+    </ul> 
+</details>
 
-#### On-Going
-- ![](https://img.shields.io/badge/MTech_Dissertation-21CYS-blue) [DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing]()
-- ![](https://img.shields.io/badge/Blockchain_Course-21CYS-purple) [Security Analysis of Decentralized Exchanges]()
-- [Robust Distributed AI Model for Patient Health Records]()
+<details close>
+    <summary><b>On-Going</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS-blue"/> <a href="">DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href="">Security Analysis of Decentralized Exchanges</a> </li>
+        <li> <a href="">Robust Distributed AI Model for Patient Health Records</a> </li>
+    </ul> 
+</details>
 
 ## List of Publications
 
