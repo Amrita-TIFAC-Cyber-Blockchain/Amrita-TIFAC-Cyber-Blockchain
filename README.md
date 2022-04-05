@@ -20,28 +20,80 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
 <details close>
     <summary><b>18CY712 - Blockchain Technology</b></summary>
 <br>
-    
-| Batch | 2019 | 2020 | 
-|------------|------------------------|--------------------|
-| **Instructor(s)** | Prof. M. Sethumadhavan | Dr. Lakshmy K.V, <br/> Asst. Professor |
-| **Teaching Assistant** | -  | Mr. Ramaguru Radhakrishnan, <br/> Research Associate |
-| **Duration** | 2019 | July 2020 - Dec 2020
-| **No. of Students** | 9 | 3 |
-| **No. of Publications** | NA | 3 |
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">Batch</th>
+    <th class="tg-7btt">2019</th>
+    <th class="tg-0lax"><span style="font-weight:bold">2020</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><b>Instructor(s)</b></td>
+    <td class="tg-0pky">Prof. M. Sethumadhavan</td>
+    <td class="tg-0lax">Dr. Lakshmy K V, <br/> Assistant Professor </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Teaching Assistant</b></td>
+    <td class="tg-0pky">Ms. Misha Abraham, Mr. Ramaguru Radhakrishnan</td>
+    <td class="tg-0lax">Mr. Ramaguru Radhakrishnan, <br>Research Associate</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Period</b></td>
+    <td class="tg-0pky">2019</td>
+    <td class="tg-0lax">Jul - Dec 2020 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>No. of Students</b></td>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0lax">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>No. of Publications</b></td>
+    <td class="tg-0pky">NA</td>
+    <td class="tg-0lax">3</td>
+  </tr>
+</tbody>
+</table>
     
 </details>
 
 <details close>
     <summary><b>20CY712 - Blockchain Technology</b></summary>
 <br>
-    
-| Batch | 2021 |
-|------------|------------------------|
-| **Instructor** | Dr. Lakshmy K.V, <br/> Asst. Professor |
-| **Teaching Assistant** | Mr. Ramaguru Radhakrishnan, <br/> Research Associate/Asst. Professor |
-| **Duration** | Aug 2021 - Dec 2021 |
-| **No. of Students** | 7 | 
-| **No. of Publications** | 1 | 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">Batch</th>
+    <th class="tg-7btt">2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><b>Instructor(s)</b></td>
+    <td class="tg-0lax">Dr. Lakshmy K V, <br/> Assistant Professor </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Teaching Assistant</b></td>
+    <td class="tg-0lax">Mr. Ramaguru Radhakrishnan, <br>Research Associate/Assistant Professor</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Period</b></td>
+    <td class="tg-0lax">Aug - Dec 2021 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>No. of Students</b></td>
+    <td class="tg-0pky">7</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>No. of Publications</b></td>
+    <td class="tg-0lax">1</td>
+  </tr>
+</tbody>
+</table>    
     
 </details>
 
