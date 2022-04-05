@@ -7,13 +7,13 @@
 
 The center for Cyber Security was identified by TIFAC (Department of Science & Technology, Govt. of India) as a CORE in Cyber Security in September 2005. The **TIFAC-CORE in Cyber Security** gives significant thrust to the frontier areas of Cyber Security, including technology, practice, management, and policy issues. This TIFAC-CORE in Cyber Security at Amrita is a collaborative alliance of academic and industrial partners. [Read More](https://www.amrita.edu/center/tifac-core-cyber-security/about)
 
-## Blockchain Technology
+## [Blockchain Technology]()
 
 Blockchain Technology, which is seen as a disruptive Technology of the last decade, has impacted all majors domains including Cyber Security. Amrita TIFAC-CORE in Cyber Security has been one of the institions in India in leading **Blockchain Technology - R&D** activities from the year 2017. TIFAC-CORE in Cyber Security Organised a **National Level 3-day Workshop on Blockchain Technology** in 2018. 
 
 ![](https://amrita.edu/wp-content/uploads/2021/09/block-chain-1170.jpg)
 
-## Blockchain Course 
+## [Blockchain Course ]()
 
 Blockchain Technology Course is being offered to **M.Tech Cyber Security students** as an **Elective during 2nd Year** of the Program (3rd Semester) from 2018-19 Academic year. 
 
@@ -97,6 +97,7 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
     
 </details>
 
+
 The Blockchain Technology Course has been designed to balance both the Theoretical Concepts as well Hands-on & Real-Time usecases with the practical challanges.
 
 <details close>
@@ -135,7 +136,7 @@ An initiative to share and spread awareness about the right understanding of the
   - Open Source Intelligence
   - Security
   
-## Blockchain Certifications
+## [Blockchain Certifications]()
 
 <details close>
     <summary><b>NPTEL - Blockchain Architecture, Design and use cases</b></summary>
@@ -144,7 +145,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS-blue"/> <a href="">Ramaguru Radhakrishnan</a> </li>
         <li> <img src="https://img.shields.io/badge/MTech_Dissertation-16CYS-blue"/> <a href="">Maria Benji</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Coursera - Blockchain Specialization by University at Buffalo & The State University of New York</b></summary>
@@ -155,7 +156,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Samia Anjum</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Sivadanam Yaswanth Lingam</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Blockchain Council - Certified Corda Expert</b></summary>
@@ -163,7 +164,7 @@ An initiative to share and spread awareness about the right understanding of the
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c">Ramaguru Radhakrishnan</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Kerala Blockchain Academy - Certified Blockchain Associate</b></summary>
@@ -171,7 +172,7 @@ An initiative to share and spread awareness about the right understanding of the
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21">Ramaguru Radhakrishnan</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Kerala Blockchain Academy - Blockchain Foundation Program</b></summary>
@@ -188,7 +189,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237">Sreelakshmi Tv</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112">Danda Prudhvi Krishna</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Kerala Blockchain Academy - Ethereum Fundamentals Program</b></summary>
@@ -198,7 +199,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <img src="https://img.shields.io/badge/Alumni-19CYS-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012">Aju Mathew Thomas</a> </li>
          <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004">Gandavaram Anuhya</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Kerala Blockchain Academy - Hyperledger Fabric Fundamentals Program</b></summary>
@@ -209,7 +210,7 @@ An initiative to share and spread awareness about the right understanding of the
     </ul>
 </details>
 
-## Blockchain Projects
+## [Blockchain Projects]()
 
 <details close>
     <summary><b>Long-term Project</b></summary>
@@ -219,7 +220,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Smart-Contracts-Security-Analysis/">Smart Contracts Security Analysis</a> </li>
         <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Formal-Methods-Blockchain/">Formal Methods and Verification</a> </li>
     </ul>
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>Completed</b></summary>
@@ -231,7 +232,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records"> Medical Record Management based on Distributed Ledger and Storage</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS-purple"/> <a href=""> Blockchain for the Internet of Vehicles</a> </li>
     </ul> 
-</details>
+</details> <br/>
 
 <details close>
     <summary><b>On-Going</b></summary>
@@ -243,7 +244,7 @@ An initiative to share and spread awareness about the right understanding of the
     </ul> 
 </details>
 
-## List of Publications
+## [List of Publications]()
 
   - **2022**
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [Sivadanam Y.L., Ramaguru R., Sethumadhavan M.]() (2022) **Distributed Ledger Framework for an Adaptive University Management System.** In: Chaki N., Devarakonda N., Cortesi A., Seetha H. (eds) _Proceedings of International Conference on Computational Intelligence and Data Engineering._ Lecture Notes on Data Engineering and Communications Technologies, vol 99. pp. 295-306. Springer, Singapore.
@@ -280,7 +281,7 @@ An initiative to share and spread awareness about the right understanding of the
     - ![](https://img.shields.io/badge/-Conference-purple) ![](https://img.shields.io/badge/-MTech-blue) [L. S. Sankar, M. Sindhu and M. Sethumadhavan](), **"Survey of consensus protocols on blockchain applications,"** 2017 4th _International Conference on Advanced Computing and Communication Systems (ICACCS)_, Coimbatore, 2017, pp. 1-5, doi: 10.1109/ICACCS.2017.8014672.
     
     
-## Webinar / Workshop / Faculty Development Program
+## [Webinar / Workshop / Faculty Development Program]()
 
   
 | Date | Topic | Event <br/> Institution | Resource Person |
