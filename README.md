@@ -1,4 +1,4 @@
-# Amrita Cyber Security - Blockchain
+# Amrita - TIFAC-CORE in Cyber Security - Blockchain Technology
 
 <p align="center">
     <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="400" />
@@ -72,18 +72,16 @@ The Blockchain Technology Course has been designed to balance both the Theoretic
     </ul>
 </details>
 
-## Blockchain Research Interest Group (RIG)
+## [Blockchain Research Interest Group (RIG)](https://amrita-tifac-cyber-blockchain.github.io/B-RIG/)
 
 An initiative to share and spread awareness about the right understanding of the Blockchain Technology. Research Areas include
 
   - Distributed Applications
   - Forensics
   - Metaverse
+  - Non-Fungible Tokens
   - Open Source Intelligence
   - Security
-  - Non-Fungible Tokens
-
-## Blockchain Research Working Group (RWG)
   
 ## Blockchain Certifications
 
@@ -166,8 +164,8 @@ An initiative to share and spread awareness about the right understanding of the
 <br>
     <ul>
         <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics">Blockchain and Cryptocurrency Forensics</a> </li>
-        <li> <a href="">Smart Contracts Security Analysis</a> </li>
-        <li> <a href="">Formal Methods and Verification</a> </li>
+        <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Smart-Contracts-Security-Analysis/">Smart Contracts Security Analysis</a> </li>
+        <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Formal-Methods-Blockchain/">Formal Methods and Verification</a> </li>
     </ul>
 </details>
 
@@ -175,11 +173,11 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>Completed</b></summary>
 <br>
     <ul>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/">GEIN: Distributed Geographical Indication Registry</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/">Distributed Ledger Framework for an Adaptive University Management System</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/">Distributed Identity and Verifiable Claims Using Ethereum Standards</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records">Medical Record Management based on Distributed Ledger and Storage</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS-purple"/> <a href="">Blockchain for the Internet of Vehicles</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/"> GEIN: Distributed Geographical Indication Registry</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/"> Distributed Ledger Framework for an Adaptive University Management System</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/"> Distributed Identity and Verifiable Claims Using Ethereum Standards</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records"> Medical Record Management based on Distributed Ledger and Storage</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS-purple"/> <a href=""> Blockchain for the Internet of Vehicles</a> </li>
     </ul> 
 </details>
 
@@ -187,9 +185,9 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>On-Going</b></summary>
 <br>
     <ul>
-        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS-blue"/> <a href="">DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href="">Security Analysis of Decentralized Exchanges</a> </li>
-        <li> <a href="">Robust Distributed AI Model for Patient Health Records</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS-blue"/> <a href=""> DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href=""> Security Analysis of Decentralized Exchanges</a> </li>
+        <li> <img src="https://img.shields.io/badge/Course_Project-19CCE-purple"/><a href=""> Robust Distributed AI Model for Patient Health Records</a> </li>
     </ul> 
 </details>
 
@@ -233,13 +231,13 @@ An initiative to share and spread awareness about the right understanding of the
 ## Webinar / Workshop / Faculty Development Program
 
   
-| Date | Topic | Institution | Resource Person |
+| Date | Topic | Event <br/> Institution | Resource Person |
 |:----:|-------|-------------|-----------------|
-| 25-Mar-2022 | Sathyam: Blockchain for Food Supply Chain Management | Export Conclave by Tamil Nadu Agricultural University, Coimbatore |Prof. M. Sethumadhavan |
-| 26-Feb-2022 | Webinar on Blockchain Applications for Common Man | Directorate Of Admissions and Academic Outreach, <br/> Amrita Vishwa Vidyapeetham, Coimbatore | Mr. Ramaguru Radhakrishnan |
-| 23-Feb-2022 | Research Challenges in Blockchain Technology | National Power Institute, Bengaluru | Mr. Ramaguru Radhakrishnan |
-| 18-Feb-2022 | Research Challenges in Blockchain Technology | Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai | Mr. Ramaguru Radhakrishnan |
-| 17-Feb-2022 | Blockchain Platforms | Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai | Mr. Ramaguru Radhakrishnan |
-| 29-Aug-2020 | Blockchain Technology and Supply Chain Management | Tamil Nadu Agriculture University, Kilikulam | Prof. M. Sethumadhavan <br/> Mr. Ramaguru Radhakrishnan |
-| 26-Aug-2020 | Developing Interdisciplinary Applications Towards Blockchain | Saintgits College of Engineering, Kottayam | Mr. Ramaguru Radhakrishnan |
-| 17-Mar-2018 | Two Day Workshop on Blockchain Technology | NSS College of Engineering, Palakkad | Mr. Ramaguru Radhakrishnan |
+| 25-Mar-2022 | ![](https://img.shields.io/badge/-Conclave-blue) Sathyam: Blockchain for Food Supply Chain Management | Export Conclave by Tamil Nadu Agricultural University, Coimbatore | ![](https://img.shields.io/badge/-Prof._Sethumadhavan_M-black) |
+| 26-Feb-2022 | ![](https://img.shields.io/badge/-Webinar-blue) Blockchain Applications for Common Man | Directorate Of Admissions and Academic Outreach, <br/> Amrita Vishwa Vidyapeetham, Coimbatore | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 23-Feb-2022 | ![](https://img.shields.io/badge/-FDP-blue) Research Challenges in Blockchain Technology | AICTE-ATAL sponsored FDP on "Cybersecurity" <br/> National Power Institute, Bengaluru | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 18-Feb-2022 | ![](https://img.shields.io/badge/-FDP-blue) Research Challenges in Blockchain Technology | International FDP on Recent Trends and Challenges in AI, IoT and Blockchain <br/> Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 17-Feb-2022 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain Platforms | International FDP on Recent Trends and Challenges in AI, IoT and Blockchain <br/> Dept. of Information Technology, <br/> Eswari College of Engineering, Chennai |  ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 29-Aug-2020 | ![](https://img.shields.io/badge/-Webinar-blue) Blockchain Technology and Supply Chain Management | Webinar on Blockchain Technology and Supply Chain in Agriculture <br/> Tamil Nadu Agriculture University, Kilikulam | ![](https://img.shields.io/badge/-Prof._Sethumadhavan_M-black) <br/> ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 26-Aug-2020 | ![](https://img.shields.io/badge/-FDP-blue) Developing Interdisciplinary Applications Towards Blockchain | Short Term Training Program (STTP) series on Blockchain Fundamentals <br/> Saintgits College of Engineering, Kottayam | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 20-Jan <br/> 21-Jan-2020 | ![](https://img.shields.io/badge/-Workshop-blue) Blockchain Technology | NSS College of Engineering, Palakkad | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
