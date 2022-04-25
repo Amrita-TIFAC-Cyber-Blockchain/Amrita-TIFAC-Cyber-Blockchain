@@ -187,7 +187,7 @@ An initiative to share and spread awareness about the right understanding of the
          <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007">P. Gnanendra Prasad</a> </li>
          <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150">Thummala Tejasree</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237">Sreelakshmi Tv</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112">Danda Prudhvi Krishna</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112">Danda Prudhvi Krishna</a> </li>
     </ul>
 </details> <br/>
 
@@ -198,6 +198,7 @@ An initiative to share and spread awareness about the right understanding of the
         <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004">Ramaguru Radhakrishnan</a> </li>
         <li> <img src="https://img.shields.io/badge/Alumni-19CYS-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012">Aju Mathew Thomas</a> </li>
          <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004">Gandavaram Anuhya</a> </li>
+         <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP-OL-21-17439">Danda Prudhvi Krishna</a> </li>
     </ul>
 </details> <br/>
 
