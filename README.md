@@ -68,7 +68,7 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
 <thead>
   <tr>
     <th class="tg-7btt">Batch</th>
-    <th class="tg-7btt">2021</th>
+    <th class="tg-7btt">2020</th>
   </tr>
 </thead>
 <tbody>
@@ -91,6 +91,39 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
   <tr>
     <td class="tg-0pky"><b>No. of Publications</b></td>
     <td class="tg-0lax">1</td>
+  </tr>
+</tbody>
+</table>    
+    
+</details>
+
+<details close>
+    <summary><b>21CY712 - Blockchain Technology</b></summary>
+<br>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">Batch</th>
+    <th class="tg-7btt">2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><b>Instructor(s)</b></td>
+    <td class="tg-0lax">Mr. Ramaguru Radhakrishnan, <br/> Assistant Professor </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>Period</b></td>
+    <td class="tg-0lax">Aug - Dec 2022 </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>No. of Students</b></td>
+    <td class="tg-0pky">TBD</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b>No. of Publications</b></td>
+    <td class="tg-0lax">TBD</td>
   </tr>
 </tbody>
 </table>    
@@ -135,6 +168,10 @@ An initiative to share and spread awareness about the right understanding of the
   - Non-Fungible Tokens
   - Open Source Intelligence
   - Security
+
+## [Kerala Blockchain Academy - Innovation Club (KBA - IC)](https://amrita-tifac-cyber-blockchain.github.io/KBAIC/)
+
+**TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham** is an Institutional Member of **KBA - Innovation Club** from June, 2022.
   
 ## [Blockchain Certifications]()
 
@@ -142,8 +179,8 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>NPTEL - Blockchain Architecture, Design and use cases</b></summary>
 <br>
     <ul>
-        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS-blue"/> <a href="">Ramaguru Radhakrishnan</a> </li>
-        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-16CYS-blue"/> <a href="">Maria Benji</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS_MTech-blue"/> <a href="">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-16CYS_MTech-blue"/> <a href="">Maria Benji</a> </li>
     </ul>
 </details> <br/>
 
@@ -151,10 +188,10 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>Coursera - Blockchain Specialization by University at Buffalo & The State University of New York</b></summary>
 <br>
     <ul>
-        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS-blue"/> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YBS92L32F84U">Ramaguru Radhakrishnan</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Aju Mathew Thomas</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Samia Anjum</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS-purple"/> <a href="">Sivadanam Yaswanth Lingam</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-17CYS_MTech-blue"/> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YBS92L32F84U">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="">Aju Mathew Thomas</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="">Samia Anjum</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="">Sivadanam Yaswanth Lingam</a> </li>
     </ul>
 </details> <br/>
 
@@ -178,16 +215,18 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>Kerala Blockchain Academy - Blockchain Foundation Program</b></summary>
 <br>
     <ul>
-         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09078">Gandavaram Anuhya</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09078">Gandavaram Anuhya</a> </li>
         <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09081">Ramaguru Radhakrishnan</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183">Gokul G</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184">Sreelakshmi Girisan</a> </li>
-        <li> <img src="https://img.shields.io/badge/Alumni-19CYS-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09245">Aju Mathew Thomas</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039">Penumallu Abhiram Reddy</a> </li>
-         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007">P. Gnanendra Prasad</a> </li>
-         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150">Thummala Tejasree</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237">Sreelakshmi Tv</a> </li>
-        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112">Danda Prudhvi Krishna</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09183">Gokul G</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09184">Sreelakshmi Girisan</a> </li>
+        <li> <img src="https://img.shields.io/badge/Alumni-19CYS_MTech-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP02-OL-21-09245">Aju Mathew Thomas</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP03-OL-21-10039">Penumallu Abhiram Reddy</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11007">P. Gnanendra Prasad</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11150">Thummala Tejasree</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP04-OL-21-11237">Sreelakshmi Tv</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP05-OL-21-12112">Danda Prudhvi Krishna</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_BTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP-21-19698">
+Ruthwik Krishna Bandreddy</a> </li>
     </ul>
 </details> <br/>
 
@@ -196,9 +235,9 @@ An initiative to share and spread awareness about the right understanding of the
 <br>
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP01-OL-21-09004">Ramaguru Radhakrishnan</a> </li>
-        <li> <img src="https://img.shields.io/badge/Alumni-19CYS-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012">Aju Mathew Thomas</a> </li>
-         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004">Gandavaram Anuhya</a> </li>
-         <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP-OL-21-17439">Danda Prudhvi Krishna</a> </li>
+        <li> <img src="https://img.shields.io/badge/Alumni-19CYS_MTech-violet"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012">Aju Mathew Thomas</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004">Gandavaram Anuhya</a> </li>
+         <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP-OL-21-17439">Danda Prudhvi Krishna</a> </li>
     </ul>
 </details> <br/>
 
@@ -207,7 +246,7 @@ An initiative to share and spread awareness about the right understanding of the
 <br>
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045">Ramaguru Radhakrishnan</a> </li>
-         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064">Gandavaram Anuhya</a> </li>
+         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064">Gandavaram Anuhya</a> </li>
     </ul>
 </details>
 
@@ -217,9 +256,9 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>Long-term Project</b></summary>
 <br>
     <ul>
-        <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics">Blockchain and Cryptocurrency Forensics</a> </li>
-        <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Smart-Contracts-Security-Analysis/">Smart Contracts Security Analysis</a> </li>
-        <li> <a href="https://amrita-tifac-cyber-blockchain.github.io/Formal-Methods-Blockchain/">Formal Methods and Verification</a> </li>
+        <li> <img src="https://img.shields.io/badge/Duration-2018_to_Present-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics">Blockchain and Cryptocurrency Forensics</a> </li>
+        <li> <img src="https://img.shields.io/badge/Duration-2018_to_Present-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Smart-Contracts-Security-Analysis/">Smart Contracts Security Analysis</a> </li>
+        <li> <img src="https://img.shields.io/badge/Duration-2021_to_Present-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Formal-Methods-Blockchain/">Formal Methods and Verification</a> </li>
     </ul>
 </details> <br/>
 
@@ -227,11 +266,11 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>Completed</b></summary>
 <br>
     <ul>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/"> GEIN: Distributed Geographical Indication Registry</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/"> Distributed Ledger Framework for an Adaptive University Management System</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/"> Distributed Identity and Verifiable Claims Using Ethereum Standards</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records"> Medical Record Management based on Distributed Ledger and Storage</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS-purple"/> <a href=""> Blockchain for the Internet of Vehicles</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/"> GEIN: Distributed Geographical Indication Registry</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/"> Distributed Ledger Framework for an Adaptive University Management System</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/"> Distributed Identity and Verifiable Claims Using Ethereum Standards</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records"> Medical Record Management based on Distributed Ledger and Storage</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS_MTech-purple"/> <a href=""> Blockchain for the Internet of Vehicles</a> </li>
     </ul> 
 </details> <br/>
 
@@ -239,9 +278,9 @@ An initiative to share and spread awareness about the right understanding of the
     <summary><b>On-Going</b></summary>
 <br>
     <ul>
-        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS-blue"/> <a href=""> DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS-purple"/> <a href=""> Security Analysis of Decentralized Exchanges</a> </li>
-        <li> <img src="https://img.shields.io/badge/Course_Project-19CCE-purple"/><a href=""> Robust Distributed AI Model for Patient Health Records</a> </li>
+        <li> <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-blue"/> <a href=""> DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-21CYS_MTech-purple"/> <a href=""> Security Analysis of Decentralized Exchanges</a> </li>
+        <li> <img src="https://img.shields.io/badge/Course_Project-19CCE_BTech-purple"/><a href=""> Robust Distributed AI Model for Patient Health Records</a> </li>
     </ul> 
 </details>
 
@@ -288,6 +327,10 @@ An initiative to share and spread awareness about the right understanding of the
   
 | Date | Topic | Event <br/> Institution | Resource Person |
 |:----:|-------|-------------|-----------------|
+| 10-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue) Research Challenges in Blockchain Technology | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards"  | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 09-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue)   | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards" | ![](https://img.shields.io/badge/-Dr._K_Praveen-grey) |
+| 09-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain Security | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards" | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 08-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue) Hands-on Smart Contract Development using Solidity in Ethereum Blockchain | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards" | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
 | 25-Mar-2022 | ![](https://img.shields.io/badge/-Conclave-blue) Sathyam: Blockchain for Food Supply Chain Management | Export Conclave by Tamil Nadu Agricultural University, Coimbatore | ![](https://img.shields.io/badge/-Prof._Sethumadhavan_M-black) |
 | 26-Feb-2022 | ![](https://img.shields.io/badge/-Webinar-blue) Blockchain Applications for Common Man | Directorate Of Admissions and Academic Outreach, <br/> Amrita Vishwa Vidyapeetham, Coimbatore | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
 | 23-Feb-2022 | ![](https://img.shields.io/badge/-FDP-blue) Research Challenges in Blockchain Technology | AICTE-ATAL sponsored FDP on "Cybersecurity" <br/> National Power Institute, Bengaluru | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
