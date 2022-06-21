@@ -212,6 +212,7 @@ An initiative to share and spread awareness about the right understanding of the
 <br>
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21">Ramaguru Radhakrishnan</a> </li>
+          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21275">Gandavaram Anuhya</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
     </ul>
 </details> <br/>
