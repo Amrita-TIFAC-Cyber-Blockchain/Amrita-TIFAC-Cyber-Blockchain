@@ -267,7 +267,15 @@ Ruthwik Krishna Bandreddy</a> </li>
         <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045">Ramaguru Radhakrishnan</a> </li>
          <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064">Gandavaram Anuhya</a> </li>
     </ul>
-</details>
+</details> <br/>
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Certified Ethereum Developer</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22522">Ramaguru Radhakrishnan</a> </li>
+    </ul>
+</details> <br/>
 
 ## [Blockchain Projects]()
 
