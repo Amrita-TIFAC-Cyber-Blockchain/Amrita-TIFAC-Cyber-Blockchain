@@ -274,7 +274,8 @@ Ruthwik Krishna Bandreddy</a> </li>
 <br>
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22522">Ramaguru Radhakrishnan</a> </li>
-    </ul>
+        <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22507">Hemvarshan V</a> </li>
+        <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22540">Gandavaram Anuhya</a> </li>
 </details> <br/>
 
 ## [Blockchain Projects]()
