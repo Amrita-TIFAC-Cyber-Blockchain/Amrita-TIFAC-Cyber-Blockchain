@@ -200,34 +200,6 @@ An initiative to share and spread awareness about the right understanding of the
 </details> <br/>
 
 <details close>
-    <summary><b>Blockchain Council - Certified Corda Expert</b></summary>
-<br>
-    <ul>
-        <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c">Ramaguru Radhakrishnan</a> </li>
-    </ul>
-</details> <br/>
-
-<details close>
-    <summary><b>Kerala Blockchain Academy - Certified Blockchain Associate</b></summary>
-<br>
-    <ul>
-        <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21">Ramaguru Radhakrishnan</a> </li>
-        <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
-          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21275">Gandavaram Anuhya</a> </li>
-         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21277">P Gnanendra Prasad</a> </li>
-         <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21279">Hemvarshan V</a> </li>
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21334">Yaswanth Gadamsetti</a> </li>
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21305">Nithin S</a> </li>
-          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21339">Srikalaivani Pannerselvam</a> </li>  
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21289">Ruthwik Krishna Bandreddy</a> </li>  
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21327">Venkata Revan Nagireddy</a> </li>  
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21317">Vinayak R</a> </li>  
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21285">Ram Surya Suresh Kumar</a> </li> 
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21321">Khandagale Swapneel Raosaheb</a> </li> 
-    </ul>
-</details> <br/>
-
-<details close>
     <summary><b>Kerala Blockchain Academy - Blockchain Foundation Program</b></summary>
 <br>
     <ul>
@@ -271,6 +243,27 @@ Ruthwik Krishna Bandreddy</a> </li>
 </details> <br/>
 
 <details close>
+    <summary><b>Kerala Blockchain Academy - Certified Blockchain Associate</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-10195-CBA-OL-21">Ramaguru Radhakrishnan</a> </li>
+        <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
+          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21275">Gandavaram Anuhya</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21277">P Gnanendra Prasad</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21279">Hemvarshan V</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21334">Yaswanth Gadamsetti</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21305">Nithin S</a> </li>
+          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21339">Srikalaivani Pannerselvam</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21289">Ruthwik Krishna Bandreddy</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21327">Venkata Revan Nagireddy</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21317">Vinayak R</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21285">Ram Surya Suresh Kumar</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21321">Khandagale Swapneel Raosaheb</a> </li> 
+    </ul>
+</details> <br/>
+
+
+<details close>
     <summary><b>Kerala Blockchain Academy - Certified Ethereum Developer</b></summary>
 <br>
     <ul>
@@ -278,6 +271,15 @@ Ruthwik Krishna Bandreddy</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22507">Hemvarshan V</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22540">Gandavaram Anuhya</a> </li>
 </details> <br/>
+
+<details close>
+    <summary><b>Blockchain Council - Certified Corda Expert</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://www.credential.net/b5e4455f-e667-4427-bae0-c3e370d9c35c">Ramaguru Radhakrishnan</a> </li>
+    </ul>
+</details> <br/>
+
 
 ## [Blockchain Projects]()
 
