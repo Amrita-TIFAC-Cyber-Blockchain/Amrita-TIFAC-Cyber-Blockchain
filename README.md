@@ -119,7 +119,7 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
   </tr>
   <tr>
     <td class="tg-0pky"><b>No. of Students</b></td>
-    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">8</td>
   </tr>
   <tr>
     <td class="tg-0pky"><b>No. of Publications</b></td>
@@ -261,6 +261,10 @@ Ruthwik Krishna Bandreddy</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21321">Khandagale Swapneel Raosaheb</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21439">Manbendra Satpathy</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21295">P. Jivan Prasadd</a> </li> 
+               <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21405">Pothuri Lakshmi Harika</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21323">Pavan Kumar Reddy T</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21362">Roshni Venkatesan</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21299">Mohamed Feroz Khan D</a> </li> 
     </ul>
 </details> <br/>
 
