@@ -266,7 +266,13 @@ Ruthwik Krishna Bandreddy</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21362">Roshni Venkatesan</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21299">Mohamed Feroz Khan D</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21336">Deepthi J</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21299">Ashwin Prashanth Parthiban</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21463">Sourabh Sasikanthan</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21407">T K Vrinda</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21297">Shanthosh K P</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21301">Nikhitha H</a> </li> 
     </ul>
+         
 </details> <br/>
 
 
@@ -277,6 +283,13 @@ Ruthwik Krishna Bandreddy</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22522">Ramaguru Radhakrishnan</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22507">Hemvarshan M</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22540">Gandavaram Anuhya</a> </li>
+</details> <br/>
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Certified Hyperledger Fabric Developer</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CHF-OL-22540">Gandavaram Anuhya</a> </li>
 </details> <br/>
 
 <details close>
