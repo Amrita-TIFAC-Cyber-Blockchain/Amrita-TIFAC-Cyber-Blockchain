@@ -280,6 +280,7 @@ Ruthwik Krishna Bandreddy</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22522">Ramaguru Radhakrishnan</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-19ECE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22507">Hemvarshan M</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22540">Gandavaram Anuhya</a> </li>
+    </ul>
 </details> <br/>
 
 <details close>
