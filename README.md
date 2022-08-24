@@ -121,10 +121,6 @@ Blockchain Technology Course is being offered to **M.Tech Cyber Security student
     <td class="tg-0pky"><b>No. of Students</b></td>
     <td class="tg-0pky">8</td>
   </tr>
-  <tr>
-    <td class="tg-0pky"><b>No. of Publications</b></td>
-    <td class="tg-0lax">TBD</td>
-  </tr>
 </tbody>
 </table>    
     
@@ -152,7 +148,8 @@ The Blockchain Technology Course has been designed to balance both the Theoretic
         <li> Oracles (Hands-On using Provable) </li>
         <li> Tokenization (ERC-721) </li>
         <li> DApps (Hands-On by Integrating of Solidity Code + Web3.js) </li>
-        <li> Introduction Hyperledger Projects  </li>
+        <li> Introduction to Hyperledger Projects  </li>
+        <li> Introduction to Corda </li>
         <li> Other Distributed Systems - Interplanetary File System (IPFS) (Hands-On)  </li>
         <li> Capstone Project </li>
     </ul>
@@ -250,10 +247,10 @@ Ruthwik Krishna Bandreddy</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
           <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21275">Gandavaram Anuhya</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21277">P Gnanendra Prasad</a> </li>
-         <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21279">Hemvarshan M</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-19ECE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21279">Hemvarshan M</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21334">Yaswanth Gadamsetti</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21305">Nithin S</a> </li>
-          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21339">Srikalaivani Pannerselvam</a> </li>  
+          <li> <img src="https://img.shields.io/badge/KBAIC-20AEL_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21319">Srikalaivani Pannerselvam</a> </li>  
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21289">Ruthwik Krishna Bandreddy</a> </li>  
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21327">Venkata Revan Nagireddy</a> </li>  
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21317">Vinayak R</a> </li>  
@@ -266,7 +263,7 @@ Ruthwik Krishna Bandreddy</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21362">Roshni Venkatesan</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21299">Mohamed Feroz Khan D</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21336">Deepthi J</a> </li> 
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21299">Ashwin Prashanth Parthiban</a> </li> 
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21325">Ashwin Prashanth Parthiban</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21463">Sourabh Sasikanthan</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21407">T K Vrinda</a> </li> 
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21297">Shanthosh K P</a> </li>
@@ -281,7 +278,7 @@ Ruthwik Krishna Bandreddy</a> </li>
 <br>
     <ul>
         <li> <img src="https://img.shields.io/badge/KBAIC-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22522">Ramaguru Radhakrishnan</a> </li>
-        <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22507">Hemvarshan M</a> </li>
+        <li> <img src="https://img.shields.io/badge/KBAIC-19ECE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22507">Hemvarshan M</a> </li>
         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CED-OL-22540">Gandavaram Anuhya</a> </li>
 </details> <br/>
 
