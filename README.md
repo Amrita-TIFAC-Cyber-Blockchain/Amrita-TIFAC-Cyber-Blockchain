@@ -150,6 +150,11 @@ The Blockchain Technology Course has been designed to balance both the Theoretic
         <li> DApps (Hands-On by Integrating of Solidity Code + Web3.js) </li>
         <li> Introduction to Hyperledger Projects  </li>
         <li> Introduction to Corda </li>
+        <li> Applications of Blockchain Technology </li>
+        <li> DAO, DeFi, DEX </li>
+        <li> Blockchain Security </li>
+        <li> Blockchain Forensics </li>
+        <li> Consensus Algorithms </li>
         <li> Other Distributed Systems - Interplanetary File System (IPFS) (Hands-On)  </li>
         <li> Capstone Project </li>
     </ul>
@@ -216,6 +221,8 @@ Ram Surya Suresh Kumar</a> </li>
 As Deepan</a> </li>
         <li> <img src="https://img.shields.io/badge/BRIG-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP-OL-19592">
 Ruthwik Krishna Bandreddy</a> </li>
+        <li> <img src="https://img.shields.io/badge/BRIG-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-BFP-OL-23096">
+Monish Thanuvenkatesh</a> </li>
     </ul>
 </details> <br/>
 
@@ -227,6 +234,8 @@ Ruthwik Krishna Bandreddy</a> </li>
         <li> <img src="https://img.shields.io/badge/Alumni-19CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP03-OL-21-11012">Aju Mathew Thomas</a> </li>
          <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP04-OL-21-12004">Gandavaram Anuhya</a> </li>
          <li> <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP-OL-21-17439">Danda Prudhvi Krishna</a> </li>
+         <li> <img src="https://img.shields.io/badge/BRIG-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-EFP-OL-23137">
+Monish Thanuvenkatesh</a> </li>
     </ul>
 </details> <br/>
 
@@ -235,7 +244,18 @@ Ruthwik Krishna Bandreddy</a> </li>
 <br>
     <ul>
         <li> <img src="https://img.shields.io/badge/-Faculty-teal"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17045">Ramaguru Radhakrishnan</a> </li>
-         <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064">Gandavaram Anuhya</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-17064">Gandavaram Anuhya</a> </li>
+        <li> <img src="https://img.shields.io/badge/BRIG-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-HFF-OL-23095">
+Monish Thanuvenkatesh</a> </li>
+    </ul>
+</details> <br/>
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Corda Fundamentals Course</b></summary>
+<br>
+    <ul>
+        <li> <img src="https://img.shields.io/badge/BRIG-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CFC-OL-23051">
+Monish Thanuvenkatesh</a> </li>
     </ul>
 </details> <br/>
 
