@@ -416,3 +416,6 @@ Monish Thanuvenkatesh</a> </li>
 | 29-Aug-2020 | ![](https://img.shields.io/badge/-Webinar-blue) Blockchain Technology and Supply Chain Management | Webinar on Blockchain Technology and Supply Chain in Agriculture <br/> Tamil Nadu Agriculture University, Kilikulam | ![](https://img.shields.io/badge/-Prof._Sethumadhavan_M-black) <br/> ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
 | 26-Aug-2020 | ![](https://img.shields.io/badge/-FDP-blue) Developing Interdisciplinary Applications Towards Blockchain | Short Term Training Program (STTP) series on Blockchain Fundamentals <br/> Saintgits College of Engineering, Kottayam | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
 | 20-Jan <br/> 21-Jan-2020 | ![](https://img.shields.io/badge/-Workshop-blue) Blockchain Technology | NSS College of Engineering, Palakkad | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+
+
+<center> <a href="//www.dmca.com/Protection/Status.aspx?ID=965c50dc-053f-4726-979f-a1f09dcb2fda" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120j.png?ID=965c50dc-053f-4726-979f-a1f09dcb2fda"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></center>
