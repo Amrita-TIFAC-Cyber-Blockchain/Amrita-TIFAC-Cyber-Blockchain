@@ -346,7 +346,7 @@ Monish Thanuvenkatesh</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/"> Distributed Ledger Framework for an Adaptive University Management System</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/"> Distributed Identity and Verifiable Claims Using Ethereum Standards</a> </li>
         <li> <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records"> Medical Record Management based on Distributed Ledger and Storage</a> </li>
-        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS_MTech-purple"/> <a href=""> Blockchain for the Internet of Vehicles</a> </li>
+        <li> <img src="https://img.shields.io/badge/Blockchain_Course-17CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-for-the-Internet-of-Vehicles/"> Blockchain for the Internet of Vehicles</a> </li>
     </ul> 
 </details> <br/>
 
@@ -404,6 +404,10 @@ Monish Thanuvenkatesh</a> </li>
   
 | Date | Topic | Event <br/> Institution | Resource Person |
 |:----:|-------|-------------|-----------------|
+| 07-Mar-2023 | ![](https://img.shields.io/badge/-FDP-blue) Smart Contracts Implementation using Solidity | AICTE-ATAL: A Two-week Hybrid FDP Program on "Recent Advances and Challenges in Artificial Intelligence, Machine Learning & Blockchain Technology" | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 09-Feb-2023 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain Implementations | Tamil Nadu State Government Sponsored Five Days ONLINE Faculty Development Program On "Blockchain Technology and its Applications - An Implementation Prespective" | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 08-Feb-2023 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain Smart Contracts | Tamil Nadu State Government Sponsored Five Days ONLINE Faculty Development Program On "Blockchain Technology and its Applications - An Implementation Prespective"  | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
+| 19-Jan-2023 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain Distributed Applications (DApps) | APJ Abdul Kalam Technological University, Thiruvananthapuram Sponsored 5-day Faculty Development Programme on "Blockchain Technology and its Applications"  | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
 | 10-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue) Research Challenges in Blockchain Technology | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards"  | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
 | 09-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain for Cyber Security | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards" | ![](https://img.shields.io/badge/-Dr._K_Praveen-grey) |
 | 09-Jun-2022 | ![](https://img.shields.io/badge/-FDP-blue) Blockchain Security | ICSSR Sponsored 5-days Workshop on "Blockchain Technology and Cyber Security Standards" | ![](https://img.shields.io/badge/-Mr._Ramaguru_R-brown) |
