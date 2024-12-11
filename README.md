@@ -1,8 +1,7 @@
 # Amrita - TIFAC-CORE in Cyber Security - Blockchain Technology
 
 <p align="center">
-    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="400" />
-    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFC-CYBER" width="180" />
+    <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/Amrita-TIFAC-Cyber-Blockchain/refs/heads/master/Assets/CYS_Logo.png" alt ="Amrita" width="800" />
 </p>
 
 The center for Cyber Security was identified by TIFAC (Department of Science & Technology, Govt. of India) as a CORE in Cyber Security in September 2005. The **TIFAC-CORE in Cyber Security** gives significant thrust to the frontier areas of Cyber Security, including technology, practice, management, and policy issues. This TIFAC-CORE in Cyber Security at Amrita is a collaborative alliance of academic and industrial partners. [Read More](https://www.amrita.edu/center/tifac-core-cyber-security/about)
